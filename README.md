@@ -1,4 +1,4 @@
-# Group_15
+# Advanced-Flight-Analyzer Project
 2612 Advanced Programming for Data Science
 
 Emails:
@@ -8,7 +8,7 @@ Emails:
 * Gilian Wagner (58029): 58029@novasbe.pt
 
 
-# Project Icaras - Group 15
+# Project Icaras
 
 ## Table of Contents
 1. Project Description
