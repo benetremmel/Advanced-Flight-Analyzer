@@ -70,7 +70,7 @@ Built With:
 - Python - The programming language used.
 - Conda - Dependency Management.
 
-Authors: Justin Sams, Tim Gunkel, Gilian Wagner, Benedikt Tremmel
+Authors: , Benedikt Tremmel, Justin Sams, Tim Gunkel, Gilian Wagner
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
