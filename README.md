@@ -1,4 +1,4 @@
-# Advanced-Flight-Analyzer Project
+# Advanced-Flight-Analyzer
 2612 Advanced Programming for Data Science
 
 Emails:
